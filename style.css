@@ -72,7 +72,7 @@ section {
 
 .container {
   height: 350px;
-  margin: 40px 80px;
+  margin: 40px auto;
 }
 
 .single_project {
