@@ -24,6 +24,27 @@ section {
   padding: 3% 8%;
 }
 
+/* Navigation Styles */
+/* ================= */
+
+nav {
+  height: 65px;
+  padding: 0% 8%;
+}
+
+nav div {
+    float: right;
+    padding: 20px 0px;
+}
+
+nav a {
+  text-decoration: none;
+  padding-right: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #363958;
+}
+
 
 /* Introduction Styles */
 /* =================== */
@@ -138,7 +159,6 @@ section {
   background-position: center;
   margin: 50px auto 100px auto;
   padding: 80px 50px;
-  border-radius: 35px;
 }
 
 .chat_box h1 {
