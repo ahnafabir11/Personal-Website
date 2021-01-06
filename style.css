@@ -135,8 +135,10 @@ section {
   background-image: url(images/inquiry-bg.png);
   height: 83px;
   background-size: cover;
+  background-position: center;
   margin: 50px auto 100px auto;
   padding: 80px 50px;
+  border-radius: 35px;
 }
 
 .chat_box h1 {
